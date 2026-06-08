@@ -31,7 +31,7 @@ Outside of work I'm a big gamer. Grew up on sports titles and still play regular
 
 ### Get in touch
 
-- LinkedIn: [https://www.linkedin.com/in/harsh-patel-h75/]
+- [LinkedIn](https://www.linkedin.com/in/harsh-patel-h75/)
 - Email: harshp9945@gmail.com
 
 -->
