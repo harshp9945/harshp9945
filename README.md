@@ -1,4 +1,4 @@
-# Hey, I'm Harsh 👋
+# Hey, I'm Harsh 
 
 I'm a Data Analyst based in Nagpur who genuinely enjoys the process of taking messy, scattered data and turning it into something that actually helps people make better decisions. Whether that's building a dashboard someone checks every morning or running an A/B test that changes how a product works, that's the kind of work I find satisfying.
 
