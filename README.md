@@ -1,6 +1,6 @@
 # Hey, I'm Harsh 
 
-I'm a Data Analyst based in Nagpur who genuinely enjoys the process of taking messy, scattered data and turning it into something that actually helps people make better decisions. Whether that's building a dashboard someone checks every morning or running an A/B test that changes how a product works, that's the kind of work I find satisfying.
+I'm a Data Analyst based in Nagpur who enjoys the process of taking messy, scattered data and turning it into something that actually helps people make better decisions. Whether that's building a dashboard someone checks every morning or running an A/B test that changes how a product works, that's the kind of work I find satisfying.
 
 I've been doing this professionally for 3+ years, and before that I co-founded a small analytics consultancy where I got to work on everything from demand forecasting to NLP pipelines across 50+ projects. That experience taught me to move fast, communicate clearly, and care about whether the output actually gets used.
 
