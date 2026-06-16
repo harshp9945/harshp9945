@@ -27,7 +27,7 @@ Outside of work I'm a big gamer. Grew up on sports titles and still play regular
 | [nlp-sentiment-pipeline](https://github.com/harshp9945/nlp-sentiment-pipeline) | DistilBERT fine-tuned on 50K reviews, FastAPI inference endpoint |
 | [stock-technical-analysis](https://github.com/harshp9945/stock-technical-analysis) | Backtesting engine with 20 technical indicators and risk metrics |
 | [ecuador-sales-forecasting](https://github.com/harshp9945/ecuador-sales-forecasting) | Multi-store retail sales forecasting on 3M rows, per-family HGB + two-stage model, 13.3% RMSLE improvement | 
-
+| [ab-testing-ecommerce](https://github.com/harshp9945/ab-testing-ecommerce) | A complete A/B testing analysis on ~294,000 real e-commerce users — from data quality checks through Bayesian inference, power analysis, and CUPED variance reduction. |
 ---
 
 ### Get in touch
