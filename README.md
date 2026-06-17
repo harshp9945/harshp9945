@@ -28,6 +28,7 @@ Outside of work I'm a big gamer. Grew up on sports titles and still play regular
 | [stock-technical-analysis](https://github.com/harshp9945/stock-technical-analysis) | Backtesting engine with 20 technical indicators and risk metrics |
 | [ecuador-sales-forecasting](https://github.com/harshp9945/ecuador-sales-forecasting) | Multi-store sales forecasting on 3M rows, 13.3% RMSLE improvement | 
 | [ab-testing-ecommerce](https://github.com/harshp9945/ab-testing-ecommerce) | End-to-end A/B testing on 294K users — frequentist, Bayesian, CUPED |
+| [google-analytics-sql-portfolio](https://github.com/harshp9945/google-analytics-sql-portfolio) | 15 BigQuery SQL queries on 4.3M GA4 events — funnel, cohort, UNNEST |
 ---
 
 ### Get in touch
