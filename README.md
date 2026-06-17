@@ -1,6 +1,10 @@
-# Hey, I'm Harsh 
+# Hey, I'm Harsh
 
 I'm a Data Analyst based in Nagpur who enjoys the process of taking messy, scattered data and turning it into something that actually helps people make better decisions. Whether that's building a dashboard someone checks every morning or running an A/B test that changes how a product works, that's the kind of work I find satisfying.
+
+**3+ years of experience · 50+ analytics projects delivered · SQL, Python, BigQuery, Tableau, Power BI**
+
+**Currently exploring:** Data Analyst, Product Analyst, and BI roles — particularly where data and gaming intersect.
 
 I've been doing this professionally for 3+ years, and before that I co-founded a small analytics consultancy where I got to work on everything from demand forecasting to NLP pipelines across 50+ projects. That experience taught me to move fast, communicate clearly, and care about whether the output actually gets used.
 
@@ -22,7 +26,7 @@ Outside of work I'm a big gamer. Grew up on sports titles and still play regular
 
 | Project | What it does |
 |---|---|
-| [google-analytics-sql-portfolio](https://github.com/harshp9945/google-analytics-sql-portfolio) | 16 BigQuery SQL queries on 4.3M GA4 events + Looker Studio dashboard |
+| [google-analytics-sql-portfolio](https://github.com/harshp9945/google-analytics-sql-portfolio) | 16 BigQuery SQL queries on 4.3M GA4 events. [Live dashboard →](https://datastudio.google.com/reporting/8e0c447b-a387-4d7f-9027-f70dfd85e292) |
 | [olist-ecommerce-sql-analytics](https://github.com/harshp9945/olist-ecommerce-sql-analytics) | 15 BigQuery SQL queries. Cohort retention, RFM, LTV, rolling revenue |
 | [ecommerce-churn-prediction](https://github.com/harshp9945/ecommerce-churn-prediction) | XGBoost pipeline with SHAP explainability, 0.91 AUC-ROC |
 | [energy-demand-forecasting](https://github.com/harshp9945/energy-demand-forecasting) | LightGBM + LSTM ensemble, 2.3% MAPE on 24h forecasts |
