@@ -20,8 +20,6 @@ Outside of work I'm a big gamer. Grew up on sports titles and still play regular
 
 ### Projects on here
 
-### Projects on here
-
 | Project | What it does |
 |---|---|
 | [google-analytics-sql-portfolio](https://github.com/harshp9945/google-analytics-sql-portfolio) | 16 BigQuery SQL queries on 4.3M GA4 events + Looker Studio dashboard |
