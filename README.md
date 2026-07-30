@@ -1,24 +1,18 @@
 # Hey, I'm Harsh
 
-I'm a Data Analyst based in Nagpur who enjoys the process of taking messy, scattered data and turning it into something that actually helps people make better decisions. Whether that's building a dashboard someone checks every morning or running an A/B test that changes how a product works, that's the kind of work I find satisfying.
+Data engineer working across SQL, Python, and cloud pipelines. I like taking messy, scattered data and turning it into something people actually rely on — whether that's a pipeline that runs every morning without anyone thinking about it, or an experiment that changes how a product works.
 
-**3+ years of experience · 50+ analytics projects delivered · SQL, Python, BigQuery, Tableau, Power BI**
-
-**Currently exploring:** Data Analyst, Product Analyst, and BI roles — particularly where data and gaming intersect.
-
-I've been doing this professionally for 3+ years, and before that I co-founded a small analytics consultancy where I got to work on everything from demand forecasting to NLP pipelines across 50+ projects. That experience taught me to move fast, communicate clearly, and care about whether the output actually gets used.
+Three years in product analytics, and before that I co-founded a small analytics consultancy where I worked on everything from demand forecasting to NLP pipelines. That taught me to move fast, communicate clearly, and care about whether the output actually gets used.
 
 Outside of work I'm a big gamer. Grew up on sports titles and still play regularly, which is part of why I'd love to work somewhere data and games intersect. There's something cool about the idea that analytics can shape how games are built and experienced.
 
 ---
 
-### What I work with
+## What I work with
 
-**Day to day:** SQL, Python (pandas, NumPy, scipy), Power BI, Tableau, Excel
-
-**For modeling:** scikit-learn, XGBoost, LightGBM, SHAP, statsmodels
-
-**Infrastructure:** Airflow, BigQuery, AWS, Git
+**Pipelines & infra:** Python, SQL, Airflow, dbt, Docker, BigQuery, PostgreSQL, GCP, AWS  
+**Analysis & modelling:** pandas, scikit-learn, XGBoost, statsmodels, experiment design  
+**Reporting:** Power BI, Tableau, Looker Studio
 
 ---
 
