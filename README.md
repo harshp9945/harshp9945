@@ -1,6 +1,6 @@
 # Hey, I'm Harsh
 
-Data engineer working across SQL, Python, and cloud pipelines. I like taking messy, scattered data and turning it into something people actually rely on — whether that's a pipeline that runs every morning without anyone thinking about it, or an experiment that changes how a product works.
+Data engineer working across SQL, Python, and cloud pipelines. I like taking messy, scattered data and turning it into something people actually rely on, whether that's a pipeline that runs every morning without anyone thinking about it, or an experiment that changes how a product works.
 
 Three years in product analytics, and before that I co-founded a small analytics consultancy where I worked on everything from demand forecasting to NLP pipelines. That taught me to move fast, communicate clearly, and care about whether the output actually gets used.
 
