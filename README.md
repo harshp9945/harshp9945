@@ -32,7 +32,6 @@ Outside of work I'm a big gamer. Grew up on sports titles and still play regular
 | [olist-ecommerce-sql-analytics](https://github.com/harshp9945/olist-ecommerce-sql-analytics) | 15 BigQuery SQL queries. Cohort retention, RFM, LTV, rolling revenue |
 | [ecommerce-churn-prediction](https://github.com/harshp9945/ecommerce-churn-prediction) | XGBoost pipeline with SHAP explainability, 0.91 AUC-ROC |
 | [energy-demand-forecasting](https://github.com/harshp9945/energy-demand-forecasting) | LightGBM + LSTM ensemble, 2.3% MAPE on 24h forecasts |
-| [nlp-sentiment-pipeline](https://github.com/harshp9945/nlp-sentiment-pipeline) | DistilBERT fine-tuned on 50K reviews, FastAPI inference endpoint |
 | [stock-technical-analysis](https://github.com/harshp9945/stock-technical-analysis) | Backtesting engine with 20 technical indicators and risk metrics |
 | [ecuador-sales-forecasting](https://github.com/harshp9945/ecuador-sales-forecasting) | Multi-store sales forecasting on 3M rows, 13.3% RMSLE improvement |
 | [ab-testing-ecommerce](https://github.com/harshp9945/ab-testing-ecommerce) | End-to-end A/B testing on 294K users. Frequentist, Bayesian, CUPED |
