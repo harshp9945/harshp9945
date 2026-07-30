@@ -6,6 +6,7 @@ Three years in product analytics, and before that I co-founded a small analytics
 
 Outside of work I'm a big gamer. Grew up on sports titles and still play regularly, which is part of why I'd love to work somewhere data and games intersect. There's something cool about the idea that analytics can shape how games are built and experienced.
 
+Open to relocation, actively looking for data engineering roles in the EU and Canada with visa sponsorship.
 ---
 
 ## What I work with
